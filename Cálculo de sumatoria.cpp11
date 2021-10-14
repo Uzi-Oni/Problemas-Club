@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int main(){
+    unsigned long long Num;
+
+    cin>>Num;
+    Num=Num*(Num+1)/2;
+    cout<<Num;
+   return 0;
+}
