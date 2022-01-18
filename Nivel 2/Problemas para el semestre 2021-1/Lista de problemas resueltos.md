@@ -47,14 +47,14 @@
   - g) [Improve SPAM](https://matcomgrader.com/problem/9643/improve-spam/)
   - h) [Stock Maximize](https://www.hackerrank.com/challenges/stockmax/problem)
 + Teoría de grafos.
-  - a) [Rumor](https://codeforces.com/problemset/problem/893/C)
-  - b) [Fridge Lockers](https://codeforces.com/problemset/problem/1255/B)
-  - c) [King Escape](https://codeforces.com/problemset/problem/1033/A)
-  - d) [Metro](https://codeforces.com/problemset/problem/1055/A)
-  - e) [Simple Molecules](https://codeforces.com/problemset/problem/344/B)
-  - f) [PolandBall and Forest](https://codeforces.com/problemset/problem/755/C)
-  - g) [Protect Sheep](https://codeforces.com/problemset/problem/948/A)
-  - h) [Road Construction](https://codeforces.com/problemset/problem/330/B)
+  - a) [Rumor](https://codeforces.com/problemset/problem/893/C)	Resuelto
+  - b) [Fridge Lockers](https://codeforces.com/problemset/problem/1255/B)	Resuelto
+  - c) [King Escape](https://codeforces.com/problemset/problem/1033/A)	Resuelto
+  - d) [Metro](https://codeforces.com/problemset/problem/1055/A)	Resuelto
+  - e) [Simple Molecules](https://codeforces.com/problemset/problem/344/B)	Resuelto
+  - f) [PolandBall and Forest](https://codeforces.com/problemset/problem/755/C)	Resuelto
+  - g) [Protect Sheep](https://codeforces.com/problemset/problem/948/A)	Resuelto
+  - h) [Road Construction](https://codeforces.com/problemset/problem/330/B)	Resuelto
 + Geometría computacional.
   - a) [Canchas](https://omegaup.com/arena/problem/COMI-Canchas/#problems)	Resuelto
   - b) [Distancia entre 2 puntos](https://omegaup.com/arena/problem/Distancia-entre-dos-puntos#problems)	Resuelto
