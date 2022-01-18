@@ -11,8 +11,8 @@
   - g) [Learning Languages](https://codeforces.com/problemset/problem/277/A)	Resuelto
   - h) [Little Girl and Maximum Sum](https://codeforces.com/problemset/problem/276/C)	Resuelto
 + Manejo de bits.
-  - a) [Raising bacteria](https://codeforces.com/problemset/problem/579/A)
-  - b) [Petr and a Combination Lock](https://codeforces.com/problemset/problem/1097/B)
+  - a) [Raising bacteria](https://codeforces.com/problemset/problem/579/A)	Resuelto
+  - b) [Petr and a Combination Lock](https://codeforces.com/problemset/problem/1097/B)	Resuelto
   - c) [El código Gray](https://omegaup.com/arena/problem/gray#problems)
   - d) [Números vacunos](https://omegaup.com/arena/problem/cnums#problems)
   - e) [Quadrabits](https://omegaup.com/arena/problem/Quadrabits#problems)
