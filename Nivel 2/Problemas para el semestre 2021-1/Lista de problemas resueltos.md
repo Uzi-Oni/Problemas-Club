@@ -57,7 +57,7 @@
   - h) [Road Construction](https://codeforces.com/problemset/problem/330/B)
 + Geometría computacional.
   - a) [Canchas](https://omegaup.com/arena/problem/COMI-Canchas/#problems)
-  - b) [Distancia entre 2 puntos](https://omegaup.com/arena/problem/Distancia-entre-dos-puntos#problems)
+  - b) [Distancia entre 2 puntos](https://omegaup.com/arena/problem/Distancia-entre-dos-puntos#problems)	Resuelto
   - c) [Make a triangle!](https://codeforces.com/problemset/problem/1064/A)
   - d) [Cover points](https://codeforces.com/problemset/problem/1047/B)
   - e) [Integer points](https://codeforces.com/problemset/problem/1248/A)
