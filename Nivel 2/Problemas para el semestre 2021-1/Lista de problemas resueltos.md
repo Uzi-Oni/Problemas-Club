@@ -58,12 +58,12 @@
 + Geometría computacional.
   - a) [Canchas](https://omegaup.com/arena/problem/COMI-Canchas/#problems)	Resuelto
   - b) [Distancia entre 2 puntos](https://omegaup.com/arena/problem/Distancia-entre-dos-puntos#problems)	Resuelto
-  - c) [Make a triangle!](https://codeforces.com/problemset/problem/1064/A)
-  - d) [Cover points](https://codeforces.com/problemset/problem/1047/B)
-  - e) [Integer points](https://codeforces.com/problemset/problem/1248/A)
-  - f) [Vasya and Cornfield](https://codeforces.com/problemset/problem/1030/B)
-  - g) [Triangle](https://codeforces.com/problemset/problem/18/A)
-  - h) [Flores de fuego](https://www.urionlinejudge.com.br/judge/es/problems/view/1039)
+  - c) [Make a triangle!](https://codeforces.com/problemset/problem/1064/A)	Resuelto
+  - d) [Cover points](https://codeforces.com/problemset/problem/1047/B)	Resuelto
+  - e) [Integer points](https://codeforces.com/problemset/problem/1248/A)	Resuelto
+  - f) [Vasya and Cornfield](https://codeforces.com/problemset/problem/1030/B)	Resuelto
+  - g) [Triangle](https://codeforces.com/problemset/problem/18/A)	Resuelto
+  - h) [Flores de fuego](https://www.urionlinejudge.com.br/judge/es/problems/view/1039)	Resuelto
 + Teoría de juegos.
   - a) [Veintiuno](https://omegaup.com/arena/problem/veintiuno#problems)
   - b) [Tower Breakers](https://www.hackerrank.com/challenges/tower-breakers-1/problem)
