@@ -23,7 +23,7 @@
   - a) [Sumando y reduciendo fracciones](https://omegaup.com/arena/problem/Suma-reduce-fracciones/#problems)	Resuelto
   - b) [The last digit](https://www.spoj.com/problems/LASTDIG/)	Resuelto
   - c) [Crucial equation](https://www.spoj.com/problems/CEQU/)	Resuelto
-  - d) [Is Fibo](https://www.hackerrank.com/contests/codesprint5/challenges/is-fibo/problem)	No existe
+  - d) [Is Fibo](https://www.hackerrank.com/contests/codesprint5/challenges/is-fibo/problem)	Resuelto
   - e) [Integer factorization](https://www.spoj.com/problems/FACT0/)	Resuelto
   - f) [Beautiful numbers](https://codeforces.com/problemset/problem/300/C)	Resuelto
   - g) [Factorial enorme](https://omegaup.com/arena/problem/Factorial-Enorme/#problems)	Resuelto
