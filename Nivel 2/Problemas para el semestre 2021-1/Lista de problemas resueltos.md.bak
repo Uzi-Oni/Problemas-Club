@@ -2,14 +2,14 @@
 ### Uziel Alejandro Mendoza Saldívar
 
 + Combinado.
-  - a) [Magic Numbers](https://codeforces.com/problemset/problem/320/A)
-  - b) [Queue](https://codeforces.com/problemset/problem/545/D)
-  - c) [Playing with Dice](https://codeforces.com/problemset/problem/378/A)
-  - d) [k-Tree](https://codeforces.com/problemset/problem/431/C)
-  - e) [Social Network (easy version)](https://codeforces.com/problemset/problem/1234/B1)
-  - f) [Ropewalkers](https://codeforces.com/problemset/problem/1185/A)
-  - g) [Learning Languages](https://codeforces.com/problemset/problem/277/A)
-  - h) [Little Girl and Maximum Sum](https://codeforces.com/problemset/problem/276/C)
+  - a) [Magic Numbers](https://codeforces.com/problemset/problem/320/A)	Resuelto
+  - b) [Queue](https://codeforces.com/problemset/problem/545/D)	Resuelto
+  - c) [Playing with Dice](https://codeforces.com/problemset/problem/378/A)	Resuelto
+  - d) [k-Tree](https://codeforces.com/problemset/problem/431/C)	Resuelto
+  - e) [Social Network (easy version)](https://codeforces.com/problemset/problem/1234/B1)	Resuelto
+  - f) [Ropewalkers](https://codeforces.com/problemset/problem/1185/A)	Resuelto
+  - g) [Learning Languages](https://codeforces.com/problemset/problem/277/A)	Resuelto
+  - h) [Little Girl and Maximum Sum](https://codeforces.com/problemset/problem/276/C)	Resuelto
 + Manejo de bits.
   - a) [Raising bacteria](https://codeforces.com/problemset/problem/579/A)
   - b) [Petr and a Combination Lock](https://codeforces.com/problemset/problem/1097/B)
