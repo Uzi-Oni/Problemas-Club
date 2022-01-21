@@ -1,4 +1,4 @@
-# Lista de problemas para el semestre 2021-1
+# Lista de problemas para el semestre 2021 - Intermedios
 ### Uziel Alejandro Mendoza Saldívar
 
 + Combinado.
@@ -14,11 +14,11 @@
   - a) [Raising bacteria](https://codeforces.com/problemset/problem/579/A)	Resuelto
   - b) [Petr and a Combination Lock](https://codeforces.com/problemset/problem/1097/B)	Resuelto
   - c) [El código Gray](https://omegaup.com/arena/problem/gray#problems)	Resuelto
-  - d) [Números vacunos](https://omegaup.com/arena/problem/cnums#problems)
-  - e) [Quadrabits](https://omegaup.com/arena/problem/Quadrabits#problems)
+  - d) [Números vacunos](https://omegaup.com/arena/problem/cnums#problems)	Resuelto
+  - e) [Quadrabits](https://omegaup.com/arena/problem/Quadrabits#problems)	Resuelto
   - f) [Matriz binaria](https://omegaup.com/arena/problem/Matriz-Binaria#problems)
-  - g) [BABY](https://www.spoj.com/problems/BABY/)
-  - h) [Inversion count](https://www.spoj.com/problems/INVCNT/)
+  - g) [BABY](https://www.spoj.com/problems/BABY/)	Resuelto
+  - h) [Inversion count](https://www.spoj.com/problems/INVCNT/)	Resuelto
 + Álgebra.
   - a) [Sumando y reduciendo fracciones](https://omegaup.com/arena/problem/Suma-reduce-fracciones/#problems)	Resuelto
   - b) [The last digit](https://www.spoj.com/problems/LASTDIG/)	Resuelto
