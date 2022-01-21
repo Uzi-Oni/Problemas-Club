@@ -14,8 +14,8 @@
   - a) [Raising bacteria](https://codeforces.com/problemset/problem/579/A)	Resuelto
   - b) [Petr and a Combination Lock](https://codeforces.com/problemset/problem/1097/B)	Resuelto
   - c) [El código Gray](https://omegaup.com/arena/problem/gray#problems)	Resuelto
-  - d) [Números vacunos](https://omegaup.com/arena/problem/cnums#problems)
-  - e) [Quadrabits](https://omegaup.com/arena/problem/Quadrabits#problems)
+  - d) [Números vacunos](https://omegaup.com/arena/problem/cnums#problems)	Resuelto
+  - e) [Quadrabits](https://omegaup.com/arena/problem/Quadrabits#problems)	Resuelto
   - f) [Matriz binaria](https://omegaup.com/arena/problem/Matriz-Binaria#problems)
   - g) [BABY](https://www.spoj.com/problems/BABY/)
   - h) [Inversion count](https://www.spoj.com/problems/INVCNT/)
