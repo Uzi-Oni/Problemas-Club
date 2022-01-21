@@ -17,7 +17,7 @@
   - c) [OmegaUp: Evaluando una fórmula gigante](https://omegaup.com/arena/problem/Evaluando-una-formula-gigante/#problems)
 
 + Semana 0:
-  - a) [URI Online Judge: Hello World!](https://www.urionlinejudge.com.br/judge/en/problems/view/1000)
-  - b) [URI Online Judge: Extremely Basic](https://www.urionlinejudge.com.br/judge/en/problems/view/1001 )
+  - a) [URI Online Judge: Hello World!](https://www.urionlinejudge.com.br/judge/en/problems/view/1000)	Resuelto
+  - b) [URI Online Judge: Extremely Basic](https://www.urionlinejudge.com.br/judge/en/problems/view/1001)	Resuelto
 
 
