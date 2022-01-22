@@ -95,14 +95,14 @@
 
 + Semana 6:
   - a) [OmegaUp: Cadenas Especiales](https://omegaup.com/arena/problem/Cadenas-especiales/#problems)
-  - b) [CodeForces: Way Too Long Words](https://codeforces.com/problemset/problem/71/A)
-  - c) [CodeForces: Translation](https://codeforces.com/problemset/problem/41/A)
+  - b) [CodeForces: Way Too Long Words](https://codeforces.com/problemset/problem/71/A)	Resuelto
+  - c) [CodeForces: Translation](https://codeforces.com/problemset/problem/41/A)	Resuelto
   - d) [OmegaUp: Matriz Espiral](https://omegaup.com/arena/problem/Matriz-espiral/#problems)
 
 + Semana 5:
-  - a) [HackerRank: Staircase](https://www.hackerrank.com/challenges/staircase/problem)
-  - b) [OmegaUp: Barbulla Matemática](https://omegaup.com/arena/problem/Barbulla-Matematica/#problems/Barbulla-Matematica)
-  - c) [CodeForces: Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)
+  - a) [HackerRank: Staircase](https://www.hackerrank.com/challenges/staircase/problem)	Resuelto
+  - b) [OmegaUp: Barbulla Matemática](https://omegaup.com/arena/problem/Barbulla-Matematica/#problems/Barbulla-Matematica)	Resuelto
+  - c) [CodeForces: Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)	Resuelto
   
 + Semana 4:
   - a) [OmegaUp: Don "Tripas" ASINUS](https://omegaup.com/arena/problem/Don-Tripas-ASINUS/#problems)
