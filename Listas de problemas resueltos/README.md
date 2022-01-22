@@ -105,7 +105,7 @@
   - c) [CodeForces: Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)	Resuelto
   
 + Semana 4:
-  - a) [OmegaUp: Don "Tripas" ASINUS](https://omegaup.com/arena/problem/Don-Tripas-ASINUS/#problems)
+  - a) [OmegaUp: Don "Tripas" ASINUS](https://omegaup.com/arena/problem/Don-Tripas-ASINUS/#problems)	Resuelto
   - b) [OmegaUp: Carrera de Larga Distancia](https://omegaup.com/arena/problem/Carrera-de-Larga-Distancia/#problems)
   - c) [OmegaUp: Las Novias de Abel](https://omegaup.com/arena/problem/Las-Novias-de-Abel/#problems)
   
