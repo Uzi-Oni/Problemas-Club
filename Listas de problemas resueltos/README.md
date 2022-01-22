@@ -6,8 +6,8 @@
 
 ### Lista de problemas para el semestre 2021 - Básicos
 + Semana 8:
-  - a) [OmegaUp: Arreglo de primos](https://omegaup.com/arena/problem/Arreglo-de-primos/#problems)
-  - b) [OmegaUp: Saltando por el arreglo](https://omegaup.com/arena/problem/Saltando-por-el-arreglo/#problems)
+  - a) [OmegaUp: Arreglo de primos](https://omegaup.com/arena/problem/Arreglo-de-primos/#problems)	Resuelto
+  - b) [OmegaUp: Saltando por el arreglo](https://omegaup.com/arena/problem/Saltando-por-el-arreglo/#problems)	Resuelto
   - c) [OmegaUp: Adivina el número](https://omegaup.com/arena/problem/COMI-Adivina-el-numero/#problems)
 
 + Semana 7:
