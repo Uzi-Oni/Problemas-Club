@@ -94,7 +94,7 @@
   - [setprecision](https://www.cplusplus.com/reference/iomanip/setprecision/)
 
 + Semana 6:
-  - a) [OmegaUp: Cadenas Especiales](https://omegaup.com/arena/problem/Cadenas-especiales/#problems)
+  - a) [OmegaUp: Cadenas Especiales](https://omegaup.com/arena/problem/Cadenas-especiales/#problems)	404
   - b) [CodeForces: Way Too Long Words](https://codeforces.com/problemset/problem/71/A)	Resuelto
   - c) [CodeForces: Translation](https://codeforces.com/problemset/problem/41/A)	Resuelto
   - d) [OmegaUp: Matriz Espiral](https://omegaup.com/arena/problem/Matriz-espiral/#problems)
