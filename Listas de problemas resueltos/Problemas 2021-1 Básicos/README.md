@@ -32,7 +32,7 @@
   
 + Semana 3:
   - a) [OmegaUp: Llamadas telefónicas](https://omegaup.com/arena/problem/Llamadas-telefonicas/#problems)	Resuelto
-  - b) [OmegaUp: occ12nssf22](https://omegaup.com/arena/problem/occ12nssf22/#problems)
+  - b) [OmegaUp: occ12nssf22](https://omegaup.com/arena/problem/occ12nssf22/#problems)	Resuelto
   - c) [OmegaUp: Año Bisiesto](https://omegaup.com/arena/problem/Ano-Bisiesto/#problems)	Resuelto
   
 + Semana 2: 
